@@ -39,6 +39,7 @@
 
     <build>
 	<defaultGoal>compile</defaultGoal>
+	<finalName>hello</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
