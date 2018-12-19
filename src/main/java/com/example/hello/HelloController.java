@@ -14,6 +14,6 @@ public class HelloController {
 
     @RequestMapping("hello")
     public String hello(){
-        return "Hello,Jenkins!1234567";
+        return "Hello,Jenkins!qqqqqqqqqqqqqq";
     }
 }
