@@ -14,6 +14,6 @@ public class HelloController {
 
     @RequestMapping("hello")
     public String hello(){
-        return "Hello,Jenkins!www";
+        return "Hello,Jenkins!同时部署成功!";
     }
 }
